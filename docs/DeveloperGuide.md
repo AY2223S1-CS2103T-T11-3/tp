@@ -372,17 +372,17 @@ Use case ends.
   * 1a1. JARVIS tells Avenger to make a request again.
 
     Use case resumes from step 1.
- 
+
 **Use case: UC5 - Delete a student**
 
-Preconditions:  There are existing students in JARVIS.  
+Preconditions:  There are existing students in JARVIS.
 
 **MSS**
 
 1. Avenger performs <ins>list students(UC3)</ins>.
 2. JARVIS displays list of students.
 3. Avenger requests to delete a student.
-4. JARVIS deletes the student.  
+4. JARVIS deletes the student.
 
 Use case ends.
 
@@ -395,7 +395,7 @@ Use case ends.
 
 **Use case: UC6 - Delete a task**
 
-Preconditions: There are existing tasks in JARVIS.  
+Preconditions: There are existing tasks in JARVIS.
 
 **MSS:**
 
@@ -412,7 +412,7 @@ Use case ends.
   * 3a1. JARVIS tells Avenger to make a request again.
 
     Use case resumes from step 2.
-    
+
 **Use case: UC7 - Clear all students and tasks**
 
 Preconditions: There are existing tasks and/or students in JARVIS.
@@ -519,10 +519,10 @@ Use case ends.
 2.  Should work without requiring an installer and be packaged in a single jar file
 3.  All data for the system should be stored locally in a human editable text file, and not be dependent on any remote server
 4.  GUI should not cause any resolution-related inconveniences for standard screen resolutions (1920 x 1080 and higher) and screen scales 100% and 125%
-5.  GUI should be usable (i.e. all functionality can be used, not necessarily optimally) for screen resolutions 1280 x 720 and higher, and for screen scales 150% 
+5.  GUI should be usable (i.e. all functionality can be used, not necessarily optimally) for screen resolutions 1280 x 720 and higher, and for screen scales 150%
 6.  A user with above average typing speed for regular English text (i.e. not code, not system admin commands) should be able to accomplish most of the tasks faster using commands over other means of input.
 7.  The product is intended only for a single user (i.e. not a multi-user product)
-8.  The system is not required to handle the actual grading of student's works  
+8.  The system is not required to handle the actual grading of student's works
 
 *{More to be added}*
 
