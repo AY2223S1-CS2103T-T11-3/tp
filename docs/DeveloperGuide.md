@@ -290,7 +290,7 @@ Priorities: High (must have) - `* * *`, Medium (nice to have) - `* *`, Low (unli
 | `* *`    | user ready to start using the app | clear all current data                                          | can get rid of the sample data used for exploring the app and input my own data            |
 | `*`      | user                              | assign different priorites to my tasks                          | can focus on the more important tasks                                                      |
 | `*`      | user ready to start using the app | import my timetable for the semester	                           | can plan my TA duties in sync with tasks from other modules                                |
-| `*`      | user                              | add in mastery check timeslots                                  | can keep track of when and who I have to see for mastery check and I can make preparations | 
+| `*`      | user                              | add in mastery check timeslots                                  | can keep track of when and who I have to see for mastery check and I can make preparations |
 | `*`      | user                              | detect if there any schedule conflicts in my upcoming tasks     | resolve those conflicts and complete all my tasks                                          |
 | `*`      | user                              | add in timeslots for consultations	                             | can keep track of details of consultation and students                                     |
 | `*`      | user                              | get the task with the next earliest deadline	                   | can plan my schedule accordingly                                                           |
